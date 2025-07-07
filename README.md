@@ -31,7 +31,7 @@ color-changer-extension/
 1. **Download or clone this repository**
 
    ```bash
-   git clone https://github.com/yourusername/color-changer-extension.git
+   git clone https://github.com/elangomanikandan/color-changer-extension.git
    ```
 
 2. **Open Chrome and go to** `chrome://extensions/`
@@ -73,4 +73,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**  
-GitHub: [@yourusername](https://github.com/yourusername)
+GitHub: [@ELANGO](https://github.com/elangomanikandan)
